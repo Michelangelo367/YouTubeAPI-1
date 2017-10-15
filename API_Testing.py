@@ -1,7 +1,7 @@
 import requests
 import csv
 import json
-API_KEY = "AIzaSyBe0YoSucvgHHzzqROCXobxvf11wBoYIv4"
+API_KEY = "YOUR API KEY"
 
 nextPageToken = " "
 #base_url = "https://www.googleapis.com/youtube/v3/search?key="+API_KEY+"&part=snippet&maxResults=50&q=shakira&type=video"
