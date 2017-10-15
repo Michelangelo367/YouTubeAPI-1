@@ -1,7 +1,7 @@
 import requests
 import csv
 import json
-API_KEY = "AIzaSyBe0YoSucvgHHzzqROCXobxvf11wBoYIv4"
+API_KEY = "YOUR API KEY"
 
 ipfilefd = open('videoandchannelidbulk.csv', 'r')
 filb = csv.DictReader(ipfilefd)
